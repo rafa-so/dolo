@@ -1,0 +1,9 @@
+{
+  "name": "Dolo",
+  "version": "0.1",
+  "description": "Gera dados fakes, ideial para programadores ou pessoas que precisam de dados fakes para testes",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "manifest_version": 2
+}
